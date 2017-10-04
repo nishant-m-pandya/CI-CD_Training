@@ -1,0 +1,10 @@
+/.metadata/
+.settings/**
+bin/**
+.project
+.classpath
+*.log
+*.class
+*.jar
+*.war
+Servers/**
